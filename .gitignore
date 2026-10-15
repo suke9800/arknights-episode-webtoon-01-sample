@@ -1,0 +1,6 @@
+*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/본편/
+!/본편/*.png
